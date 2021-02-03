@@ -11,7 +11,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashikajotwani12" alt="yashikajotwani12" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript , React ,Nodejs**
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...​")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 
 - 👨‍💻 All of my projects are available at [https://yashikajotwani12.github.io/portfolio1/](https://yashikajotwani12.github.io/portfolio1/)
 
