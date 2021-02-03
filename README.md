@@ -1,8 +1,9 @@
 [![MasterHead](https://www.canva.com/design/DAEVFYDYEWQ/BexLDhNyal_8fLfTv3Sgug/view?utm_content=DAEVFYDYEWQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink​)](https://yashikajotwani12.github.io​)
 
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...​")
+
 <h1 align="center">Hi 👋, I'm Yashika Jotwani</h1>
 <h3 align="center">An enthusiast</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...​")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikajotwani12&label=Profile%20views&color=0e75b6&style=flat" alt="yashikajotwani12" /> </p>
 
