@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAEVRs6mfCE/share/preview?token=gjNElmpaiWVA8XiaKSoQEQ&role=EDITOR&utm_content=DAEVRs6mfCE&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton​)](https://yashikajotwani12.github.io​)
+[![MasterHead](https://www.canva.com/design/DAEVRs6mfCE/aKIVHF4yvrqRFVpDY8rSuQ/view?utm_content=DAEVRs6mfCE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink​)](https://yashikajotwani12.github.io​)
 
 
 <h1 align="center">Hi 👋, I'm Yashika Jotwani</h1>
