@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
-<h1 align="center">Hi 👋, I'm Yashika Jotwani</h1>
+<h1 align="center"> नमस्ते (Namaste), I'm Yashika Jotwani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">An enthusiast</h3>
 
 
