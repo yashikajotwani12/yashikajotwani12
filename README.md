@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAEVRs6mfCE/aKIVHF4yvrqRFVpDY8rSuQ/view?utm_content=DAEVRs6mfCE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink​)](https://yashikajotwani12.github.io​)
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
 
 <h1 align="center">Hi 👋, I'm Yashika Jotwani</h1>
