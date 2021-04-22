@@ -29,7 +29,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yashika-jothwani-03a0061b7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yashika jothwani" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/yashika_00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashika_00" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@yashikajotwani12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@yashikajotwani12" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yashikajotwani1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="yashikajotwani1" height="30" width="40" /></a>
@@ -50,4 +49,5 @@
 <div align="center">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashikajotwani12&show_icons=true&locale=en&layout=compact" alt="yashikajotwani12" /></p>
-
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yashika-jothwani-03a0061b7/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://yashikajotwani12.github.io/portfolio1/)
