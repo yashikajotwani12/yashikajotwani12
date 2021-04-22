@@ -50,4 +50,4 @@
 <div align="center">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashikajotwani12&show_icons=true&locale=en&layout=compact" alt="yashikajotwani12" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashikajotwani12&show_icons=true&locale=en" alt="yashikajotwani12" /></p>
+
