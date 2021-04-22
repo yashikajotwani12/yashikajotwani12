@@ -2,10 +2,13 @@
 
 
 <h1 align="center"> नमस्ते (Namaste), I'm Yashika Jotwani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">An enthusiast</h3>
+<h3 align="center">An enthusiast and Web Developer from India ❤</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikajotwani12&label=Profile%20views&color=0e75b6&style=flat" alt="yashikajotwani12" /> </p>
+
+![age](https://img.shields.io/badge/age-19-blue)
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![living](https://img.shields.io/badge/living-Jabalpur-3c9)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashikajotwani12" alt="yashikajotwani12" /></a> </p>
