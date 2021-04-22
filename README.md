@@ -49,5 +49,10 @@
 <div align="center">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashikajotwani12&show_icons=true&locale=en&layout=compact" alt="yashikajotwani12" /></p>
+
+<div align="center">
+  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yashika-jothwani-03a0061b7/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://yashikajotwani12.github.io/portfolio1/)
+
+</div>
