@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **yashikajothwani39@gmail.com**
 
-- 📄 Know about my experiences [//https://drive.google.com/file/d/1sRvVJ7V4aQHg9AJcwXpHVxltbrJpHrpg/view?usp=sharing](//drive.google.com/file/d/18sNu_mGbv7076mRUJNKo4RCqs4XmR9ri/view?usp=sharing)
+- 📄 Know about my experiences [//https://drive.google.com/file/d/1sRvVJ7V4aQHg9AJcwXpHVxltbrJpHrpg/view?usp=sharing](https://drive.google.com/file/d/1sRvVJ7V4aQHg9AJcwXpHVxltbrJpHrpg/view?usp=sharing)
 
 - ⚡ Fun fact **I don't know**
 
