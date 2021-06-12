@@ -6,7 +6,7 @@
 
 
 
-![age](https://img.shields.io/badge/age-19-blue)
+![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Jabalpur-3c9)
 
