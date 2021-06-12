@@ -8,7 +8,7 @@
 
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Jabalpur-3c9)
+![living](https://img.shields.io/badge/living-INDIA-3c9)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashikajotwani12" alt="yashikajotwani12" /></a> </p>
