@@ -15,9 +15,7 @@
 <li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/yashika-jothwani-03a0061b7/">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://yashikajotwani12.github.io/portfolio1/">https://yashikajotwani12.github.io/portfolio1/</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>She</code>/<code>Her</code></li>
-  <li>📄 <b>Know about my experiences</b>: <code><a href="https://drive.google.com/file/d/1sRvVJ7V4aQHg9AJcwXpHVxltbrJpHrpg/view?usp=sharing"> Yashika's Resume</li>
-
-<!-- <li> ⚡ <b>Fun fact</b> : </li> -->
+<li>📄 <b>Know about my experiences</b>: <code><a href="https://drive.google.com/file/d/1sRvVJ7V4aQHg9AJcwXpHVxltbrJpHrpg/view?usp=sharing"> Yashika's Resume</li>
 </ul>
 
 
@@ -30,14 +28,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashikajotwani12" alt="yashikajotwani12" /></a> </p>
 
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-
-
-
-- 
-
-
+<!-- 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
