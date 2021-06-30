@@ -5,7 +5,7 @@
 <br>
 
 ![Yashika's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashikajotwani12&theme=dracula)
-<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
+<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right" margin-top="2rem">
 <h3 align="center">An enthusiast ❤</h3>
 <p><i> I'm Yashika a 2nd year Computer Science Undergraduate from Gyan Ganga Institute Of Technology and Sciences, Jabalpur. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 
