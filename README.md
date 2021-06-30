@@ -1,10 +1,22 @@
 <!-- ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) -->
 
 
-<h1 align="center"> नमस्ते (Namaste), I'm Yashika Jotwani <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-<h3 align="center">An enthusiast and Web Developer from India ❤</h3>
+<h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
+<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
+<h3 align="center">An enthusiast ❤</h3>
+<p><i> I'm Aayushi a 2nd year Computer Science Undergraduate from Gyan Ganga Institute Of Technology and Sciences, Jabalpur. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 
 ![Yashika's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashikajotwani12&theme=dracula)
+<ul>
+<li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Python</code></li>
+<li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>CSS</code>, <code>Open Source</code>, <code>C++</code></li>
+<li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/yashika-jothwani-03a0061b7/">LinkedIn</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://yashikajotwani12.github.io/portfolio1/">https://yashikajotwani12.github.io/portfolio1/</a></code></li>
+<li> 😄 <b>Pronouns</b> : <code>She</code>/<code>Her</code></li>
+<li>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sRvVJ7V4aQHg9AJcwXpHVxltbrJpHrpg/view?usp=sharing)</li>
+
+<!-- <li> ⚡ <b>Fun fact</b> : </li> -->
+</ul>
 
 
 
@@ -16,19 +28,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashikajotwani12" alt="yashikajotwani12" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript , React ,Nodejs**
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- 👨‍💻 All of my projects are available at [https://yashikajotwani12.github.io/portfolio1/](https://yashikajotwani12.github.io/portfolio1/)
 
-- 💬 Ask me about **Anything cause I am always ready to help**
+- 
 
-- 📫 How to reach me **yashikajothwani39@gmail.com**
 
-- 📄 Know about my experiences [//https://drive.google.com/file/d/1sRvVJ7V4aQHg9AJcwXpHVxltbrJpHrpg/view?usp=sharing](https://drive.google.com/file/d/1sRvVJ7V4aQHg9AJcwXpHVxltbrJpHrpg/view?usp=sharing)
-
-- ⚡ Fun fact **I don't know**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
