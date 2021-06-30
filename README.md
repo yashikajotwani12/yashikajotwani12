@@ -2,11 +2,12 @@
 
 
 <h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
+![Yashika's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashikajotwani12&theme=dracula)
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <h3 align="center">An enthusiast ❤</h3>
 <p><i> I'm Aayushi a 2nd year Computer Science Undergraduate from Gyan Ganga Institute Of Technology and Sciences, Jabalpur. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 
-![Yashika's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashikajotwani12&theme=dracula)
+
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Python</code></li>
 <li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>CSS</code>, <code>Open Source</code>, <code>C++</code></li>
@@ -60,7 +61,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashikajotwani12&show_icons=true&locale=en&layout=compact&theme=dark" alt="yashikajotwani12" /></p>
 
-<div align="center">
+<div>
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yashika-jothwani-03a0061b7/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://yashikajotwani12.github.io/portfolio1/)
