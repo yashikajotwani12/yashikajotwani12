@@ -64,7 +64,9 @@
 
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
 </center>
-  <div align="center">
+  
+---
+<div align="center">
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yashika-jothwani-03a0061b7/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://yashikajotwani12.github.io/portfolio1/)
