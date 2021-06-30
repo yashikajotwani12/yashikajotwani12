@@ -28,6 +28,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashikajotwani12" alt="yashikajotwani12" /></a> </p>
+  
 
 <!-- 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
@@ -59,5 +60,7 @@
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yashika-jothwani-03a0061b7/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://yashikajotwani12.github.io/portfolio1/)
+  
+<p align="center"><img src="https://metrics.lecoq.io/yashikajotwani12" alt="Github Metrics"></p>
 
 </div>
