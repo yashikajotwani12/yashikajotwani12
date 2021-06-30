@@ -61,8 +61,16 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/yashika-jothwani-03a0061b7/)
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://yashikajotwani12.github.io/portfolio1/)
   
-<p align="center"><img src="https://metrics.lecoq.io/yashikajotwani12" alt="Github Metrics"></p>
- <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
-</center>
+
 
 </div>
+  <center>
+<h2 align="center">Git Hub Stats</h2>
+  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yashikajotwani12&count_private=true&show_icons=true&bg_color=#000&theme=cobalt"></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashikajotwani12&theme=dark&hide_border=true"/></p> 
+ 
+<p align="center"><img src="https://metrics.lecoq.io/yashikajotwani12" alt="Github Metrics"></p>
+
+<h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories .</h3>
+</center>
