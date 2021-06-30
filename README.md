@@ -5,13 +5,13 @@
 <br>
 
 ![Yashika's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashikajotwani12&theme=dracula)
-<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right" margin-top="2rem">
+<img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right" >
 <h3 align="center">An enthusiast ❤</h3>
 <p><i> I'm Yashika a 2nd year Computer Science Undergraduate from Gyan Ganga Institute Of Technology and Sciences, Jabalpur. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 
 
 <ul>
-<li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Python</code></li>
+<li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Django</code></li>
 <li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>CSS</code>, <code>Open Source</code>, <code>C++</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/yashika-jothwani-03a0061b7/">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://yashikajotwani12.github.io/portfolio1/">https://yashikajotwani12.github.io/portfolio1/</a></code></li>
