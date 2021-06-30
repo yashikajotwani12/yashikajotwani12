@@ -60,14 +60,14 @@
 <br>
 
 <div align="center">
-  
- <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=yashikajotwani12&theme=dark" alt="yashikajotwani12"> </p>
+ 
+<!--  <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=yashikajotwani12&theme=dark" alt="yashikajotwani12"> </p>
 
 <p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashikajotwani12&theme=dark" alt="yashikajotwani12" > </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashikajotwani12&show_icons=true&locale=en&layout=compact&theme=dark" alt="yashikajotwani12" > </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yashikajotwani12&show_icons=true&locale=en&theme=dark" alt="yashikajotwani12" ></p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=yashikajotwani12&show_icons=true&locale=en&theme=dark" alt="yashikajotwani12" ></p>  -->
   
 
 
