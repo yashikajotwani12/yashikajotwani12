@@ -2,6 +2,7 @@
 
 
 <h2><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h2>
+
 ![Yashika's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashikajotwani12&theme=dracula)
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <h3 align="center">An enthusiast ❤</h3>
