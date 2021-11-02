@@ -16,7 +16,7 @@
 <li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/yashika-jothwani-03a0061b7/">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://yashikajotwani12.github.io/portfolio1/">https://yashikajotwani12.github.io/portfolio1/</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>She</code>/<code>Her</code></li>
-<li>📄 <b>Know about my experiences</b>: <code><a href="https://drive.google.com/file/d/1sRvVJ7V4aQHg9AJcwXpHVxltbrJpHrpg/view?usp=sharing"> Yashika's Resume</li>
+<li>📄 <b>Know about my experiences</b>: <code><a href="https://docs.google.com/document/d/1LElmylwjoVmXcndoWfs8l3r0Qj1URhQX2e2ZaJtFHnA/edit?usp=sharing"> Yashika's Resume</li>
 </ul>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
