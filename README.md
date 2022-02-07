@@ -41,9 +41,9 @@
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-INDIA-3c9)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikajotwani12&label=Profile%20views&color=0e75b6&style=flat" alt="yashikajotwani12"> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikajotwani12&label=Profile%20views&color=0e75b6&style=flat" alt="yashikajotwani12"> </p> -->
 
-<h3 align="left">Coding Profiles</h3>
+<!-- <h3 align="left">Coding Profiles</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/yashika_00" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yashika_00" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@yashikajotwani12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="@yashikajotwani12" height="30" width="40" /></a>
@@ -51,12 +51,12 @@
 <a href="https://www.leetcode.com/yashikajotwani" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="yashikajotwani" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/yashikajotwani12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="yashikajotwani12" height="30" width="40" /></a>
 </p>
-
+ -->
 
 
 <br>
 
-<div align="center">
+<!-- <div align="center"> -->
  
 <!--  <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=yashikajotwani12&theme=dark" alt="yashikajotwani12"> </p>
 
