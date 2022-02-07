@@ -87,10 +87,3 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://yashikajotwani12.github.io/portfolio1/)
 
 </div>
-<div>
-<h2>Github Wrapped 2021</h2>
-  
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/yashikajotwani12/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
-</div>
-  
-  
