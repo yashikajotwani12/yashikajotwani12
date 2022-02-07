@@ -18,6 +18,7 @@
 <li> 😄 <b>Pronouns</b> : <code>She</code>/<code>Her</code></li>
 <li> 📄 <b>Know about my experiences</b>: <code><a href="https://docs.google.com/document/d/1-ucCZsUfDhoEe0ooRKNHDU5378567-4wTELTHBH-5r4/edit?usp=sharing"> Yashika's Resume</li>
 </ul>
+ 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -41,10 +42,6 @@
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-INDIA-3c9)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashikajotwani12&label=Profile%20views&color=0e75b6&style=flat" alt="yashikajotwani12"> </p>
-
-
-<!-- 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
 
 <h3 align="left">Coding Profiles</h3>
 <p align="left">
@@ -71,7 +68,7 @@
   
 
 
-  <center>
+ <center>
 <h2 align="center">Git Hub Stats</h2>
 
 <p align="center"><img src="https://metrics.lecoq.io/yashikajotwani12" alt="Github Metrics"></p>
