@@ -20,7 +20,7 @@
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Django</code></li>
 <li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>CSS</code>, <code>Open Source</code>, <code>C++</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="https://www.linkedin.com/in/yashika-jothwani-03a0061b7/">LinkedIn</a></code></li>
-<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://yashikajotwani12.github.io/portfolio1/">https://yashikajotwani12.github.io/portfolio1/</a></code></li>
+<li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://yashikajotwani12.github.io/yashikajotwani/">Portfolio</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>She</code>/<code>Her</code></li>
 <li> 📄 <b>Know about my experiences</b>: <code><a href="https://docs.google.com/document/d/1-ucCZsUfDhoEe0ooRKNHDU5378567-4wTELTHBH-5r4/edit?usp=sharing"> Yashika's Resume</li>
 </ul>
