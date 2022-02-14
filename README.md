@@ -9,7 +9,7 @@
 
 ![Yashika's github activity graph](https://activity-graph.herokuapp.com/graph?username=yashikajotwani12&theme=dracula)
 <!-- <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right" > -->
-<img src="https://user-images.githubusercontent.com/77020164/153805576-24862020-4aa4-4c39-bcd7-cc757d815f5e.gif" width="47%" height="47%"  align="right"  />
+<img src="https://user-images.githubusercontent.com/77020164/153806218-e8cf4826-6ed2-456e-860d-1ffdbfffd7ad.gif" width="40%" height="40%"  align="right"  />
 <!-- ![original](https://user-images.githubusercontent.com/77020164/153805576-24862020-4aa4-4c39-bcd7-cc757d815f5e.gif=250x250) -->
 <h3 align="center"> Tech Enthusiast ❤</h3>
 <p><i> I'm Yashika a 3rd year Computer Science Undergraduate from Gyan Ganga Institute Of Technology and Sciences, Jabalpur. I'm a Tech Enthusiast, Full stack Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
