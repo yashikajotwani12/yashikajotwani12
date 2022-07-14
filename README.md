@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/77020164/153806717-dff02c3c-e022-4af5-8140-abc022be9c02.png" width="35%" height="35%"  align="right"  />
 <!-- ![original](https://user-images.githubusercontent.com/77020164/153805576-24862020-4aa4-4c39-bcd7-cc757d815f5e.gif=250x250) -->
 <h3 align="center"> Tech Enthusiast ❤</h3>
-<p><i> I'm Yashika a 3rd year Computer Science Undergraduate from Gyan Ganga Institute Of Technology and Sciences, Jabalpur. I'm a Tech Enthusiast, Full stack Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> I'm Yashika a final year Computer Science Undergraduate from Gyan Ganga Institute Of Technology and Sciences, Jabalpur. I'm a Tech Enthusiast, Full stack Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 
 
 <ul>
