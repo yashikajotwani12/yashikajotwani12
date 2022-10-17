@@ -90,6 +90,16 @@
         <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
       </tr>
     </tbody>
+     <tbody>
+      <tr>
+	      <td><a href="https://github.com/yashikajotwani12/Menstruated"><b>🤓 Menstruated</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/yashikajotwani12/Menstruated?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/yashikajotwani12/Menstruated?style=flat-square&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/yashikajotwani12/Menstruated?style=flat-square"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Menstruated/yashikajotwani12?style=flat-square"/></td>
+        <td><img alt="Language" src="https://img.shields.io/badge/markdown-100%25-blue?style=flat-square"/></td> 
+      </tr>
+    </tbody>
   </table>
   <br />
 </details>
