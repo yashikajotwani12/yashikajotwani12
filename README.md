@@ -24,7 +24,7 @@
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/yashika-jothwani-03a0061b7/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: yashikajotwani12@gmail.com.
-- 📝 &nbsp; Checkout my [Resume]().
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1vjTaISYD3xsfMj2OddF00LTVYQi90Ku7/view?usp=sharing).
 
 ### My Absolute Favorites:
 
@@ -98,8 +98,8 @@
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
+  	    <li><b>OS:</b> Ubuntu 22.4</li>
+	    <li><b>Laptop: </b> HP  (i5)</li>
   	    <li><b>Browser: </b> Firefox Web Browser</li>
 	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
