@@ -24,7 +24,7 @@
 - 💬 &nbsp; Ask me about anything [here](https://www.linkedin.com/in/yashika-jothwani-03a0061b7/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: yashikajotwani12@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1vjTaISYD3xsfMj2OddF00LTVYQi90Ku7/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1rRcz95GEzskvz_kP-YRjeeqKqXQJerJ1/view).
 
 ### My Absolute Favorites:
 
