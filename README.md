@@ -6,21 +6,25 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yashikajotwani12.github.io/yashikajotwani/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yashika_jotwani)
 
-### 🚀 Experience
-* 👩‍💻 Software Developer at HackerRank (2024 - Present)
-* 👩‍💻 Software Developer Intern at HackerRank (2023)
-* 👩‍💻 Google Summer of Code (GSoC) with OpenWisp in 2022
-* 👩‍💻 Major League Hacking Fellowship with Solana Labs in 2022
-* 👩‍💻 GitHub Extern at Suborbital in 2022
-  
+
 
 
 ### Glad to see you here! &nbsp;
 
-* I'm a Computer Science Engineering Graduate 🎓 from RGPV University 🏛. 
+* I'm a Computer Science Engineering Graduate 🎓. 
 * I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. 
 * I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
-* I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+
+
+  
+  
+### 🚀 Experience
+*  👩‍💻 Software Developer at HackerRank (2024 - Present)
+*  💼 Software Developer Intern at HackerRank (2023)
+*  💻 Google Summer of Code (GSoC) with OpenWisp in 2022
+*  🎒 Major League Hacking Fellowship with Solana Labs in 2022
+*  ♥️ GitHub Extern at Suborbital in 2022
+  
 
 
 ### Talking about Personal Stuffs:
